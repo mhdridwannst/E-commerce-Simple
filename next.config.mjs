@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: "/E-commerce-Simple",
-  disDir: "out",
+  distDir: "out",
   images: {
     unoptimized: true,
   },
