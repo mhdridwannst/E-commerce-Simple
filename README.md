@@ -1,5 +1,5 @@
 # WANNN STORE
-
+# Try it: https://mhdridwannst.github.io/E-commerce-Simple/
 Simple e-commerce website built with Next.js for UKM Software Development PENS.
 
 ## About
@@ -20,8 +20,8 @@ This project was created as part of the Software Development assignment at UKM S
 ## Tech Stack
 
 - **Framework**: Next.js
-- **Styling**: CSS / Tailwind (sesuaikan dengan yang kamu pakai)
-- **Language**: JavaScript / TypeScript (sesuaikan)
+- **Styling**: Tailwind
+- **Language**: JavaScript
 
 ## Getting Started
 
