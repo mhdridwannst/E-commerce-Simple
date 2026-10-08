@@ -1,6 +1,7 @@
 # WANNN STORE
-https://mhdridwannst.github.io/E-commerce-Simple/
+
 Simple e-commerce website built with Next.js for UKM Software Development PENS.
+https://mhdridwannst.github.io/E-commerce-Simple/
 
 ## About
 
