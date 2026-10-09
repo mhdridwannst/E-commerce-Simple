@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
-  basePath: "/E-commerce-Simple",
-  distDir: "out",
   images: {
-    unoptimized: true,
+    // Thumbnail produk dummyjson di-host di domain ini
+    remotePatterns: [{ protocol: "https", hostname: "cdn.dummyjson.com" }],
   },
 };
 
